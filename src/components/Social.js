@@ -13,15 +13,6 @@ const Social = () => (
     </li>
     <li>
       <a
-        href="https://www.linkedin.com/in/armandas-garšva-88264a150/"
-        target="_blank"
-        className="icon fa-linkedin"
-      >
-        <span className="label">LinkedIn</span>
-      </a>
-    </li>
-    <li>
-      <a
         href="https://github.com/Eqls"
         target="_blank"
         className="icon fa-github"
