@@ -13,8 +13,6 @@ const Header = props => (
         <p>
           Passionate web developer. ❤️Javascript and its ecosystem, but not
           limited by it.
-          <br />
-          Always seeking for challenges and ways to improve.
         </p>
       </div>
     </div>
